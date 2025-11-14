@@ -1,0 +1,13 @@
+def display_menu():
+    print("\n" + "=" * 50)
+    print("         MENÚ DE PRODUCTOS")
+    print("=" * 50)
+    print("1. Guardar producto")
+    print("2. Listar productos")
+    print("3. Buscar productos")
+    print("   a) Por nombre (aprox)")
+    print("   b) Por rango de precio")
+    print("4. Modificar producto")
+    print("5. Borrar producto")
+    print("6. Salir")
+    print("=" * 50)
