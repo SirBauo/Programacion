@@ -20,6 +20,8 @@ Week 9 — Introducción a bases de datos.
 
 Week 10 — Modelos de clase y objetos.
 
+Week 11 — Relación entre objetos.
+
 
 **Tareas Programadas**
 
