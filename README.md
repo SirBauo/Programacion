@@ -31,5 +31,7 @@ Tarea Programada 2 — Implementación de cifrado César o Vigenère.
 
 Tarea Programada 3 — Aplicación para registrar, buscar y gestionar productos.
 
+Tarea Programada 4 - Implementaciónde superclase y herencias
+
 -------------------------------------------------------------------------------------
 El objetivo de este repositorio es servir como muestra ordenada de los avances semanales y tareas entregadas en el curso de programación.
