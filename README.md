@@ -24,6 +24,7 @@ Week 11 — Relación entre objetos.
 
 Week 12 — Métodos de Herencias
 
+Week 13 — Manejo de errores
 
 **Tareas Programadas**
 
