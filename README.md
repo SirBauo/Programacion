@@ -40,5 +40,9 @@ Tarea Programada 5 — Superclase Abstracta
 
 Tarea Programada 6 — Manejo de errores
 
+**Proyecto Final**
+
+////
+
 -------------------------------------------------------------------------------------
 El objetivo de este repositorio es servir como muestra ordenada de los avances semanales y tareas entregadas en el curso de programación.
